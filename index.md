@@ -11,6 +11,7 @@ const arrowFunctionExample = () => {
 };
 An arrow funcion declaration in ES6
 ```
+- [+] A markdown file is added to the root
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
